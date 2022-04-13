@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/martin-itt/master/gh-header-image-cropped.png" alt="banner that says Martin Pavlin - software developer, along a martin sketch">
 -->
 A junior software developer with 1+ commercial experience in software development. Keen interest in Web Development and Cloud technologies. Additional background in team leading, hospitality and serious chef!.
-I am based in Dublin, Ireland 🇮🇪
+I am based in Dublin, Ireland :ireland
 
 Some technologies I enjoy working with
 
