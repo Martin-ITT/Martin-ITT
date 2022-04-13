@@ -2,11 +2,13 @@
 <!--
 <img src="https://raw.githubusercontent.com/martin-itt/master/gh-header-image-cropped.png" alt="banner that says Martin Pavlin - software developer, along a martin sketch">
 -->
-A junior software developer with 1+ commercial experience in software development. Keen interest in Web Development and Cloud technologies. Additional background in team leading, hospitality and serious chef!.
-I am based in Dublin, Ireland :ireland
+A Junior Software Developer with 1+ commercial experience in Software Development. Keen interest in Web Development, Cloud technologies, and Network Security. Additional background in team leading, hospitality and serious chef!
+
+I am based in Dublin, Ireland 🇮🇪
+
+Now learning Angular framework and Typescript to extend knowledge.
 
 Some technologies I enjoy working with
-
 
 ![HTML5-E34F26_style=for-the-badge logo=html5 logoColor=white](https://user-images.githubusercontent.com/25881259/163246979-5617160f-534b-4fff-ae57-84640357f811.png)
 ![CSS3-1572B6_style=for-the-badge logo=css3 logoColor=white](https://user-images.githubusercontent.com/25881259/163247022-45cf3198-1d18-4021-a571-ad9171528213.png)
@@ -27,7 +29,7 @@ Some technologies I enjoy working with
 
 
 
-Next mission is to add
+To be implemented
 
 ![TypeScript-007ACC_style=for-the-badge logo=typescript logoColor=white](https://user-images.githubusercontent.com/25881259/163250690-6e4890a9-9d1c-4968-bfa8-cc0dc6999308.png)
 ![React-20232A_style=for-the-badge logo=react logoColor=61DAFB](https://user-images.githubusercontent.com/25881259/163242799-cf0087f6-c6b6-4e7b-b33f-ecbaa85b0267.png) ![Angular-DD0031_style=for-the-badge logo=angular logoColor=white](https://user-images.githubusercontent.com/25881259/163242888-2a55e3cb-d609-46be-8c96-a5b857a1a9fb.png)
@@ -41,6 +43,13 @@ Next mission is to add
 
 [![Slack-4A154B_style=for-the-badge logo=slack logoColor=white](https://user-images.githubusercontent.com/25881259/163246542-3f5248c9-1c23-417c-9d31-16eca1f6273b.png)](https://code-institute-room.slack.com/team/U01BUEF7SUW)
 
+## My Projects at Code Institute
+Description and tech stack of each project can be found in readme file.
+
+- [First milestones project - The Martin's Grill](https://martin-itt.github.io/MS1-Martin-s-Grill/)
+- [Second milestones project - The Car Club](https://martin-itt.github.io/MS2-memoryTesting/)
+- [Third milestones project - In Vino Veritas](https://in-vino-veritas.herokuapp.com/get_index)
+- [Fourth milestones project - Crazy Burger](https://crazyburger.herokuapp.com/)
 
 <!--
 **Martin-ITT/Martin-ITT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
