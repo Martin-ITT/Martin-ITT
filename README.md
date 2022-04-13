@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src=”https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width=”90px”>
 
 <!--
 **Martin-ITT/Martin-ITT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
