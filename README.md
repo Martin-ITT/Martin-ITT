@@ -46,7 +46,7 @@ To be implemented
 ## My Projects at Code Institute
 Description and tech stack of each project can be found in readme file.
 
-- [First milestones project - The Martin's Grill](https://martin-itt.github.io/MS1-Martin-s-Grill/)
+- [First milestones project - The Martin's Grill](https://martin-itt.github.io/MS1-Martin-s-Grill/){:target="_blank"}
 - [Second milestones project - The Car Club](https://martin-itt.github.io/MS2-memoryTesting/)
 - [Third milestones project - In Vino Veritas](https://in-vino-veritas.herokuapp.com/get_index)
 - [Fourth milestones project - Crazy Burger](https://crazyburger.herokuapp.com/)
