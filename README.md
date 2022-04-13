@@ -2,7 +2,12 @@
 <!--
 <img src="https://raw.githubusercontent.com/martin-itt/master/gh-header-image-cropped.png" alt="banner that says Martin Pavlin - software developer, along a martin sketch">
 -->
-A junior developer with 1+ commercial experience in software development. Keen interest in Web Development and Cloud technologies. Additional background in team leading, hospitality and serious chef!. Some technologies I enjoy working with
+A junior software developer with 1+ commercial experience in software development. Keen interest in Web Development and Cloud technologies. Additional background in team leading, hospitality and serious chef!.
+I am based in Dublin, Ireland 🇮🇪
+
+Some technologies I enjoy working with
+
+
 ![HTML5-E34F26_style=for-the-badge logo=html5 logoColor=white](https://user-images.githubusercontent.com/25881259/163246979-5617160f-534b-4fff-ae57-84640357f811.png)
 ![CSS3-1572B6_style=for-the-badge logo=css3 logoColor=white](https://user-images.githubusercontent.com/25881259/163247022-45cf3198-1d18-4021-a571-ad9171528213.png)
 ![Bootstrap-563D7C_style=for-the-badge logo=bootstrap logoColor=white](https://user-images.githubusercontent.com/25881259/163247145-23dfc170-5f71-4873-b1fc-a6c868f5e598.png)
@@ -23,6 +28,7 @@ A junior developer with 1+ commercial experience in software development. Keen i
 
 
 Next mission is to add
+
 ![TypeScript-007ACC_style=for-the-badge logo=typescript logoColor=white](https://user-images.githubusercontent.com/25881259/163250690-6e4890a9-9d1c-4968-bfa8-cc0dc6999308.png)
 ![React-20232A_style=for-the-badge logo=react logoColor=61DAFB](https://user-images.githubusercontent.com/25881259/163242799-cf0087f6-c6b6-4e7b-b33f-ecbaa85b0267.png) ![Angular-DD0031_style=for-the-badge logo=angular logoColor=white](https://user-images.githubusercontent.com/25881259/163242888-2a55e3cb-d609-46be-8c96-a5b857a1a9fb.png)
 ![Vue js-35495E_style=for-the-badge logo=vue](https://user-images.githubusercontent.com/25881259/163250437-cbb43712-8533-48e4-8858-d81db9339e3e.png)
@@ -30,9 +36,10 @@ Next mission is to add
 ![Ruby-CC342D_style=for-the-badge logo=ruby logoColor=white](https://user-images.githubusercontent.com/25881259/163250790-80489994-6295-40cf-bd18-33a4af6cda17.png)
 
 
-## Contact: <a href="https://github.com/Martin-ITT"><img align="left" width="150" height="150" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?raw=true"></a>
-![LinkedIn-0077B5_style=for-the-badge logo=linkedin logoColor=white](https://user-images.githubusercontent.com/25881259/163245417-791e2b6e-e256-4a56-be5d-1a6c714f12b3.png)
-![Slack-4A154B_style=for-the-badge logo=slack logoColor=white](https://user-images.githubusercontent.com/25881259/163246542-3f5248c9-1c23-417c-9d31-16eca1f6273b.png)
+## Contact: <a href="#"><img align="left" width="150" height="150" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?raw=true"></a>
+[![LinkedIn-0077B5_style=for-the-badge logo=linkedin logoColor=white](https://user-images.githubusercontent.com/25881259/163245417-791e2b6e-e256-4a56-be5d-1a6c714f12b3.png)](https://www.linkedin.com/in/martin-pavlin/)
+
+[![Slack-4A154B_style=for-the-badge logo=slack logoColor=white](https://user-images.githubusercontent.com/25881259/163246542-3f5248c9-1c23-417c-9d31-16eca1f6273b.png)](https://code-institute-room.slack.com/team/U01BUEF7SUW)
 
 
 <!--
